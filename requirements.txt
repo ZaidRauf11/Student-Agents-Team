@@ -1,16 +1,4 @@
-agno
 streamlit
 python-dotenv
-yfinance
-packaging
-duckduckgo-search
-fastapi
-uvicorn
+agno
 groq
-openai
-sqlalchemy
-pgvector
-psycopg[binary]
-pypdf
-pycountry
-arxiv
