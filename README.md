@@ -60,7 +60,7 @@ streamlit run app.py
 
 ## 📷 Demo Screenshot
 
-(Add a screenshot of your app UI here)
+<img width="1419" height="783" alt="image" src="https://github.com/user-attachments/assets/2f4b2288-b141-4eb9-bff5-5d7bd0ebb3be" />
 
 ---
 
